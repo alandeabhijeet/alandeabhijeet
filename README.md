@@ -1,6 +1,6 @@
 <!--
 **alandeabhijeet/alandeabhijeet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+
 
 # 💻 Abhijeet Alande 
 
@@ -64,3 +64,5 @@ Welcome to my GitHub profile! I am a Computer Science student at IIIT Dharwad (C
 ---
 
 ✨ *Crafted with passion and powered by [GPRM](https://gprm.itsvg.in)* ✨
+-->
+
